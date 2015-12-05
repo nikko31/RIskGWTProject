@@ -1,0 +1,24 @@
+@font-face
+{
+    font-family: Britannic Bold;
+    src: url('britannic_bold.ttf');
+}
+
+text {
+    font-family: BritannicBold;
+}
+.risk-cards-selected {
+    opacity: 0.6;
+    border-color: black;
+    border-style: solid;
+}
+.risk-cards {
+    opacity: 1;
+}
+
+.map {
+    background-image:url(lordOfRingsBg.jpg);
+    background-size: auto;
+    min-height: 100%;
+    width: 100%;
+}
