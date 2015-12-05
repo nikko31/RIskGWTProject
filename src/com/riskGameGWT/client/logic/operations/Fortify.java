@@ -1,6 +1,7 @@
 package com.riskGameGWT.client.logic.operations;
 
-import risk.board.Territory;
+
+import com.riskGameGWT.client.logic.board.Territory;
 
 /**
  * Created by Federico on 28/11/2015.

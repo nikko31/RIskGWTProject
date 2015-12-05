@@ -2,6 +2,8 @@ package com.riskGameGWT.client;
 
 import java.util.*;
 
+import java.util.*;
+
 public class GameResources {
     public final static String TAKE_TROUPS_PHASE = "Take Troups";
     public final static String FORTIFY_PHASE = "Fortify";

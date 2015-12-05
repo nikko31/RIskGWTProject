@@ -1,6 +1,6 @@
 package com.riskGameGWT.client.logic.operations;
 
-import risk.Phases;
+import com.riskGameGWT.client.logic.Phases;
 
 /**
  * Created by DarkLinux on 27/11/15.

@@ -1,7 +1,6 @@
 package com.riskGameGWT.client.logic.operations;
 
-import risk.board.Territory;
-
+import com.riskGameGWT.client.logic.board.Territory;
 /**
  * Created by DarkLinux on 27/11/15.
  */
